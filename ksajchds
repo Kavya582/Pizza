@@ -1,0 +1,56 @@
+https://1.bp.blogspot.com/-BPd-fsELcy8/YLTwVqMeE8I/AAAAAAAAHr0/oSpOMClppX4ILTqQ_PjWbYEoy6bBd7hPQCLcBGAsYHQ/s16000/SweetCornPizza.jpg
+
+
+btn[1],btn[2].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[1],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[2],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[0],btn[1],btn[2].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[0],btn[1],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[0],btn[2],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[1],btn[2],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+})
+
+btn[1],btn[2],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+
+})
+
+btn[0],btn[1],btn[2],btn[3].addEventListener('click',()=>{
+    let img = document.getElementById('image');
+    img.src = "";
+})
+
+
